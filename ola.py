@@ -48,3 +48,13 @@ valor_final = valor - desconto
 
 print(f'valor a pagar e {valor_final}')
 
+
+
+
+
+
+#para salvar o arquivo na nuvem 
+
+#git add ola.py
+#git commit -m "coamndos basicos "
+#git push
